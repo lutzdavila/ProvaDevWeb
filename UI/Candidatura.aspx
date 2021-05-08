@@ -1,4 +1,4 @@
-<%@ Page Language="C#" AutosEventWireup="true" CodeBehind="Candidatura.aspx.cs" Inherits="provaLutzKeppel.UI.Candidatura" %>
+﻿<%@ Page Language="C#" AutosEventWireup="true" CodeBehind="Candidatura.aspx.cs" Inherits="provaLutzKeppel.UI.Candidatura" %>
 
 <!DOCTYPE html>
 
